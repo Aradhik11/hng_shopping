@@ -14,7 +14,7 @@ A simple application that demonstrates list of product and how to add unique pro
 ![Screenshot 2](screenshots/Screenshot3.png)
 
 ## Apk Download
-- [Download link](https://appetize.io/app/rev7j6dajjiqqtjmsz7bvfo4je)
+- [Download link](https://drive.google.com/file/d/1WF2pGouhJrzqiXJiw4b6NN4Zg586ydyC/view?usp=sharing)
 
 ### Prerequisites
 

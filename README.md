@@ -1,16 +1,37 @@
 # hng_project
 
-A new Flutter project.
+A simple application that demonstrates list of product and how to add unique product to a checkout.
 
-## Getting Started
+## Features
+- Have the functionality of adding and removing items to the Checkout 
+- A button that navigates to an Order Successful screen from the Checkout screen.
+- Prevents duplicate items from being added
 
-This project is a starting point for a Flutter application.
+## Screenshots
 
-A few resources to get you started if this is your first Flutter project:
+![Screenshot 1](screenshots/Screenshot1.png)
+![Screenshot 2](screenshots/Screenshot2.png)
+![Screenshot 2](screenshots/Screenshot3.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Apk Download
+- [Download link](https://appetize.io/app/rev7j6dajjiqqtjmsz7bvfo4je)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Prerequisites
+
+You need to have the following software installed on your machine:
+
+- [Dart SDK](https://dart.dev/get-dart)
+- [Flutter SDK](https://flutter.dev/docs/get-started/install) (if using Flutter)
+
+### Installing
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/Aradhik11/hng_shopping.git
+cd hng_shopping.git
+
+
+
+
+
